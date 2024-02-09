@@ -1,4 +1,4 @@
-FROM maven:3-jdk-11
+FROM maven:3.9.6-amazoncorretto-17-debian
 
 RUN apt-get update
 
